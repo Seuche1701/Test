@@ -1,0 +1,6 @@
+# No external dependencies required. Uses Python's standard library (Tkinter + sqlite3).
+# Requires Python 3.8+
+
+# Optional for packaging (create native executables):
+pyinstaller
+
